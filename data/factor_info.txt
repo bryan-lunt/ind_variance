@@ -1,0 +1,5 @@
+dl	1	0
+vfl	1	0
+cic	0	1
+sna	0	1
+vnd	0	1

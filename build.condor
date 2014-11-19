@@ -1,0 +1,15 @@
+############
+#
+# Example submit file for vanilla job
+#
+############
+
+#Universe       = vanilla
+#Executable     = /home/grad/bjlunt2/LEARN_CONDOR/hello_world.sh  
+Executable     = build.bash 
+
+input   = /dev/null
+output  = build.stdout         
+error   = build.stderr       
+                                                  
+Queue
